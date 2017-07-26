@@ -1,0 +1,2 @@
+# kata
+Just For Func
